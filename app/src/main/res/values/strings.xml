@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="name">name</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="todo">TODO</string>
+</resources>
